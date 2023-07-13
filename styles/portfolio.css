@@ -185,3 +185,10 @@ main section {
         text-align: center;
     margin top: 50px;
     }
+    /* footer related style */
+    footer{
+        display: flex;
+        padding: 130px 200px;
+        background: #FFF8F3;
+        margin-top: 100px;
+    }
